@@ -1,6 +1,6 @@
 - [Bear](Bear.md)
-- [Cat](Cat.md.md)
-- [Dog](Dog.md.md)
+- [Cat](Cat.md.)
+- [Dog](Dog.md.)
 
 
 
